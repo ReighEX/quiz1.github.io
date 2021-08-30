@@ -1,0 +1,27 @@
+
+.container{
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(89, 160, 107);
+ 
+}
+
+.background{
+    background-color: black;
+
+}
+header{
+   background-color: rgb(111, 194, 190);
+    text-align: center;
+
+}
+
+footer{
+    background-color:rgb(59, 69, 70);
+    margin-top: auto; 
+    color: white;
+    text-align: center;
+}
+footer span{
+    color: skyblue;
+}
